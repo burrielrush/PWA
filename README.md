@@ -41,6 +41,7 @@ When you load the web application, it will have a registered service worker usin
 
 ## Walk-through video
 
+[Untitled_ Jul 17, 2023 11_43 PM.webm](https://github.com/burrielrush/PWA/assets/123046249/ce2769f8-9eeb-4baf-8779-98f2f473fe16)
 
 
 
